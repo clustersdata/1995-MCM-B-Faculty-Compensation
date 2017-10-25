@@ -1,2 +1,3 @@
 # 1995-MCM-B-Faculty-Compensation
-1995 MCM B: Faculty Compensation
+
+Aluacha Balaclava College, and undergraduate facility, has just hired a new Provost whose first priority is the institution of a fair and reasonable faculty-compensation plan. She has hired your consulting team to design a compensation system that reflects the following circumstances and principles: [Three paragraphs of details omitted] Design a new pay system, first without cost-of-living increases. Incorporate cost-of-living increases, and then finally, design a transition process for current faculty that will move all salaries towards your system without reducing anyone's salary. The Provost requires a detailed compensation system plan for implementation, as well as a brief, clear, executive summary outlining the model, its assumptions, strengths, weaknesses and expected results, which she can present to the Board and faculty. [A detailed table of current salaries is omitted.] 
